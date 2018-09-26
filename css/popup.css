@@ -1,0 +1,36 @@
+body{
+  width:400px;
+  background-color:#ff9416;
+  margin:0;
+  font-family: monospace;
+  text-align: center;
+}
+
+input{
+  margin-left: 3px;
+  width:85%;
+  border-radius: 10px;
+}
+
+button{
+  width:10%;
+  border-radius: 10px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  margin-top: 10px;
+  width:95%;
+}
+
+a{
+  color:#08298A;
+  text-decoration: none;
+}
+
+a:hover{
+  border-bottom: 1px solid;
+}
